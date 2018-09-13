@@ -1,6 +1,6 @@
-# Beginning-Version-Control-with-Git-and-GitHub
+# Version-Control-with-Git-and-GitHub
 
-Code bundles for Beginning-Version-Control-with-Git-and-GitHub authored by Alex Magana, Joseph Muli and published by Packt.
+Code bundles for Version-Control-with-Git-and-GitHub authored by Alex Magana, Joseph Muli and published by Packt.
 
 Ease of delivery by a team, is proportionately influenced, by its ability to incorporate change. Version control drives this by allowing for ease of change and contribution to a codebase. This course draws attention to the facets that make up version control. This encompasses tracking of codebase changes, how to host a codebase to support remote access, managing contributors and contributions, and finally, the best practices to adhere to in the practice of version control. By implementing version control, creation and enforcement of team driven checks and controls for introduction, scrutiny, approval, merging and reversal of changes when the occasion necessitates, is realized.
 
