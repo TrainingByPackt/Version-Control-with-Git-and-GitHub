@@ -24,7 +24,7 @@ Ease of delivery by a team, is proportionately influenced, by its ability to inc
 
 ### Hardware requirements
 For an optimal student experience, we recommend the following hardware configuration:
-* **Processor**: 2.6 GHz or higher, preferably multi-core
+* **Processor**: Intel Core i3 or equivalent
 * **Memory**: 3GB RAM
 * **Hard disk**: 35GB or more
 * An Internet connection
