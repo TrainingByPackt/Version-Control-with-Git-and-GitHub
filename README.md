@@ -1,8 +1,37 @@
+[![GitHub issues](https://img.shields.io/github/issues/TrainingByPackt/Version-Control-with-Git-and-GitHub.svg)](https://github.com/TrainingByPackt/Version-Control-with-Git-and-GitHub/issues)
+[![GitHub forks](https://img.shields.io/github/forks/TrainingByPackt/Version-Control-with-Git-and-GitHub.svg)](https://github.com/TrainingByPackt/Version-Control-with-Git-and-GitHub/network)
+[![GitHub stars](https://img.shields.io/github/stars/TrainingByPackt/Version-Control-with-Git-and-GitHub.svg)](https://github.com/TrainingByPackt/Version-Control-with-Git-and-GitHub/stargazers)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/TrainingByPackt/Version-Control-with-Git-and-GitHub/pulls)
+
+
+
 # Version-Control-with-Git-and-GitHub
 
 Code bundles for Version-Control-with-Git-and-GitHub authored by Alex Magana, Joseph Muli and published by Packt.
 
+The course showcases how version control drives the ability to incorporate change by allowing for ease of change and contribution to a codebase. By implementing version control, creation and enforcement of team driven checks and controls for introduction, scrutiny, approval, merging and reversal of changes when the occasion necessitates, is realized.
+
 Ease of delivery by a team, is proportionately influenced, by its ability to incorporate change. Version control drives this by allowing for ease of change and contribution to a codebase. This course draws attention to the facets that make up version control. This encompasses tracking of codebase changes, how to host a codebase to support remote access, managing contributors and contributions, and finally, the best practices to adhere to in the practice of version control. By implementing version control, creation and enforcement of team driven checks and controls for introduction, scrutiny, approval, merging and reversal of changes when the occasion necessitates, is realized.
 
-This book takes a completely different approach from any online material by taking the learner through basic individual Git usage to a collaborative Git workflow on teams. It encompasses 2 segments. 
-In the first section, we explore Git as an everyday tool for the individual. This part takes the learner through the commands utilized when working with a repository and its subsequent files and branches. In the second part, we explain the usage of Git and GitHub in deployment, debugging, and versioning applications, collaboratively.
+## What you will learn
+*	Understand and implement best practices in version control
+*	Navigating the GitHub UI and installing Octotree
+*	Understand what is Feature Branch Workflow and implement its features
+*	Use forking features, such as submodules and rebasing
+*	Master commands for debugging and maintaining a repository
+*	Implement continuous integration with CircleCi or TravisCi
+*	Gain insight into release management and how GitHub enables software releases
+
+### Hardware requirements
+For an optimal student experience, we recommend the following hardware configuration:
+* **Processor**: 2.6 GHz or higher, preferably multi-core
+* **Memory**: 3GB RAM
+* **Hard disk**: 35GB or more
+* An Internet connection
+
+### Software requirements
+You’ll also need the following software installed in advance:
+* Operating System: Linux, Ubuntu, or Mac OS X
+* Browser: Google Chrome or Mozilla Firefox (with the latest updates installed)
+* Atom IDE, Latest Version
+* Git, Latest Version
