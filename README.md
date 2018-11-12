@@ -5,9 +5,9 @@
 
 
 
-# Version-Control-with-Git-and-GitHub
+# Version Control with Git and GitHub
 
-Code bundles for Version-Control-with-Git-and-GitHub authored by Alex Magana, Joseph Muli and published by Packt.
+Code bundles for Version Control with Git and GitHub authored by Alex Magana, Joseph Muli and published by Packt.
 
 The course showcases how version control drives the ability to incorporate change by allowing for ease of change and contribution to a codebase. By implementing version control, creation and enforcement of team driven checks and controls for introduction, scrutiny, approval, merging and reversal of changes when the occasion necessitates, is realized.
 
