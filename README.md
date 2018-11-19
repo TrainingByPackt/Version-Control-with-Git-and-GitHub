@@ -15,7 +15,7 @@ Ease of delivery by a team, is proportionately influenced, by its ability to inc
 
 ## What you will learn
 *	Understand and implement best practices in version control
-*	Navigating the GitHub UI and installing Octotree
+*	Explain the GitHub User Interface
 *	Understand what is Feature Branch Workflow and implement its features
 *	Use forking features, such as submodules and rebasing
 *	Master commands for debugging and maintaining a repository
